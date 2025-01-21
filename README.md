@@ -120,6 +120,8 @@ An image is produced with the locations of the picks overlayed onto the original
 
 ## Automated picking
 
+[![Video Thumbnail](/readme_images/select_pick.jpg)](/readme_images/picking_video.mp4)
+<!--
 https://user-images.githubusercontent.com/58810536/118489980-5bf65a80-b715-11eb-9ee9-c3f896af8ba9.mp4
 
 <figure class="video_container">
@@ -127,6 +129,7 @@ https://user-images.githubusercontent.com/58810536/118489980-5bf65a80-b715-11eb-
     <source src="/readme_images/picking_video.mp4" type="video/mp4">
   </video>
 </figure>
+-->
 
 A protocol written in the Composer program performs the automated picking routine. The .csv file output from the previous step must either be named consistently each time to be read by the protocol, or the program can be edited to select the correct .csv file. The SELECT head is used – this consists of a set of 8 vertically aligned individually actuated pipettes.
 
