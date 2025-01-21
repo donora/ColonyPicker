@@ -120,13 +120,16 @@ An image is produced with the locations of the picks overlayed onto the original
 
 ## Automated picking
 
-[![Video Thumbnail](/readme_images/select_pick.jpg)](/readme_images/picking_video.mp4)
-<!--
-https://user-images.githubusercontent.com/58810536/118489980-5bf65a80-b715-11eb-9ee9-c3f896af8ba9.mp4
 
+
+
+https://github.com/user-attachments/assets/14ef3e5a-5bcf-4f64-b8d0-44c43ef72290
+
+
+<!--
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="/readme_images/select_pick.jpg">
-    <source src="/readme_images/picking_video.mp4" type="video/mp4">
+    <source src="/readme_images/picking_video_small.mp4" type="video/mp4">
   </video>
 </figure>
 -->
